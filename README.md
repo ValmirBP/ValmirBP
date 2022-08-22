@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ValmirBP
+- 👀 I’m interested in Back-end development, IA, Process automation and IoT
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on softwares and micelanious that make our Life easier an simple 
+- 📫 You can reach me valmir.barros57@yahoo.com.br 

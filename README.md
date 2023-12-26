@@ -18,7 +18,7 @@
 
 - 📫 How to contact me:
   <div>
-    <a href="mailto:valmir.barrosca@gmail.com" target="_blank">
+    <a href="mailto:valmirbarrosca@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://t.me/+16475504290" target="_blank">

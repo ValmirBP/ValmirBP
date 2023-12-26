@@ -85,6 +85,7 @@ Description | Institution | Year | Type
 ## ⚙️ Estatísticas GitHub
 
 <div align="center">
+<!--   <a href="https://github.com/darcisioalmeida"> -->
   <a href="https://github.com/darcisioalmeida">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=darcisioalmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darcisioalmeida&layout=compact&langs_count=7&theme=dark">

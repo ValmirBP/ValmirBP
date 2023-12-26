@@ -6,17 +6,29 @@
 ## 🧑🏽‍💻 Who I am:
 <div>
     <p align="justify">
-      ✪ A professional with more than 20 years of experience in Commercial and Customer Service areas. <br>
-      ✪ Passionate, enthusiastic and involved in technology, I started my experience in Web development at the beginning of 2020
-      and I'm still studying and learning every day. <br>
-      ✪ An easy-going person, determined, communicative, proactive, engaged, I have a resilient profile, work
-      very good in a team, strong mentality in leadership and problem solving.
+      ✪ A professional with over 6 years of experience in Commercial and Customer Service. <br>
+      ✪ Passionate, enthusiastic and involved in technology, I started my experience in Web development at the beginning of 2018, and I'm still studying and learning every day. <br>
+      ✪ I am an easy-going, determined, communicative, proactive, and engaged person. I have a resilient profile, work
+      I work very well in a team and have a strong mentality in leadership and problem-solving.
     </p>
-</div>
 
 - 🌱 I am currently learning and practicing ** Javascript, React, NodeJS, Typescript and Python **
 
 - ⚡ Fun fact: ** I'm a big fan of racing and a collector of miniature vehicles😜**
+
+- 📫 How to contact me:
+  <div>
+    <a href="mailto:valmir.barrosca@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://t.me/+16475504290" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
+    <a href="https://wa.me/+16475504290" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+   </div>
+</div>
 
 ## 👨🏽‍💻🚀 My Technologies
 
@@ -37,31 +49,24 @@
   <img align="center" title="WordPress" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align="center" title="C#" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" title="Python" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" title="Django" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
-
-</div><be>
+</div><br>
 
 
+## 🏆 Awards, Courses and Certifications
 
-
-## 🏆 Prêmios, Cursos e Certificações
-
-Descrição   | Instituição   | Ano | Tipo
+Description | Institution | Year | Type
 --------- | --------- | ------ | ------
-🏅 Bootcamp Impulso React Web Developer | Digital Innovation One - DIO | 2022 | Certificação
-🏅 Front End Development Libraries | FreeCodeCamp | 2022 | Certificação
-🏅 Programador Full Stack Javascript | OneBiteCode | 2022 | Certificação
-🏅 Javascript Algorithms and Data Structures | FreeCodeCamp | 2021 | Certificação
-🏅 Bootcamp Become Remote | Digital Innovation One - DIO | 2021 | Certificação
-🏅 Discover | Rocketseat | 2021 | Curso
-🏅 Web Design | Origamid | 2021 | Curso
-🏅 Responsive Web Design | FreeCodeCamp | 2020 | Certificação
-🏅 Bootcamp HTML Web Developer | Digital Innovation One - DIO | 2020 | Certificação
-🏅 Tecnologia da Informação e Comunicação | Senai | 2019 | Certificação
-🏅 Fundamentos de TI: Hardware e Software | Fundação Bradesco | 2019 | Certificação
-
-
-
+🏅 Impulso React Web Developer Bootcamp | Digital Innovation One - DIO | 2022 | Certification
+🏅 Front End Development Libraries | FreeCodeCamp | 2022 | Certification
+🏅 Full Stack Javascript Programmer | OneBiteCode | 2022 | Certification
+🏅 Javascript Algorithms and Data Structures | FreeCodeCamp | 2021 | Certification
+🏅 Bootcamp Become Remote | Digital Innovation One - DIO | 2021 | Certification
+🏅Discover | Rocketseat | 2021 | Course
+🏅Web Design | Origamid | 2021 | Course
+🏅 Responsive Web Design | FreeCodeCamp | 2020 | Certification
+🏅 HTML Web Developer Bootcamp | Digital Innovation One - DIO | 2020 | Certification
+🏅 Information and Communication Technology | Senai | 2019 | Certification
+🏅 IT Fundamentals: Hardware and Software | Fundação Bradesco | 2019 | Certification
 
 ## ⚙️ Estatísticas GitHub
 

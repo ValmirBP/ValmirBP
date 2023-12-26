@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on software and miscellaneous that make our life easier and simple
 - 📫 You can reach me valmir.barrosca@gmail.com
 
-
+![](https://komarev.com/ghpvc/?username=ValmirBP)
 
 
 ## 🧑🏽‍💻 Quem sou:

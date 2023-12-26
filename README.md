@@ -5,9 +5,7 @@
 - 📫 You can reach me valmir.barrosca@gmail.com
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darcisioalmeida" alt="darcisioalmeida" /> </p>
-<h1 align="center">Olá, muito prazer, seja bem-vindo! Eu sou < Darcisio Almeida /><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<h3 align="center">Programador Web | Desenvolvedor FrontEnd </h3>
+
 
 ## 🧑🏽‍💻 Quem sou:
 <div>
@@ -27,20 +25,7 @@
 
 - ⚡ Curiosidade: ** eu nasci em 29 de fevereiro 😜**
 
-- 📫 Como entrar em contato comigo:
 
-  <div>
-    <a href="mailto:darcisioalmeida@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://t.me/+5511949564267" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-    </a>
-    <a href="https://wa.me/+5511949564267" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
-   </div>
-</div>
 
 ## 👨🏽‍💻🚀 Minhas Tecnologias
 
@@ -81,19 +66,7 @@ Descrição   | Instituição   | Ano | Tipo
 🏅 Tecnologia da Informação e Comunicação | Senai | 2019 | Certificação
 🏅 Fundamentos de TI: Hardware e Software | Fundação Bradesco | 2019 | Certificação
 
-## 🌐 Minhas Redes Sociais
 
-<div>
-  <a href="https://www.facebook.com/darcisio.almeida" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
-  </a>
-  <a href="https://instagram.com/darcisioalmeida" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/darcisioalmeida" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
 
 
 ## ⚙️ Estatísticas GitHub

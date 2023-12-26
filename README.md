@@ -91,3 +91,6 @@ Description | Institution | Year | Type
 </div><br>
 
 <img align="center" src="https://img.shields.io/static/v1?label=DEV&message=Valmir Barros&color=7159c1&style=for-the-badge&logo=ghost"/>
+
+
+![snake gif](https://github.com/ValmirBP/ValmirBP/blob/output/github-contribution-grid-snake.svg)

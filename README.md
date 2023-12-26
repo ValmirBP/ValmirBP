@@ -68,6 +68,20 @@ Description | Institution | Year | Type
 🏅 Information and Communication Technology | Senai | 2019 | Certification
 🏅 IT Fundamentals: Hardware and Software | Fundação Bradesco | 2019 | Certification
 
+## 🌐 My Social Media
+
+<div>
+   <a href="https://www.facebook.com/valmir.barros.169/" target="_blank">
+     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+   </a>
+   <a href="https://www.instagram.com/valmirbp57/" target="_blank">
+     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
+   <a href="https://www.linkedin.com/in/valmir-barros/" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+</div>
+
 ## ⚙️ Estatísticas GitHub
 
 <div align="center">

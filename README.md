@@ -85,26 +85,9 @@ Description | Institution | Year | Type
 ## ⚙️ Estatísticas GitHub
 
 <div align="center">
-<!--   <a href="https://github.com/darcisioalmeida"> -->
-  <a href="https://github.com/darcisioalmeida">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=darcisioalmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darcisioalmeida&layout=compact&langs_count=7&theme=dark">
+  <a href="https://github.com/ValmirBP">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ValmirBP&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValmirBP&layout=compact&langs_count=7&theme=dark">
 </div><br>
 
 <img align="center" src="https://img.shields.io/static/v1?label=DEV&message=Valmir Barros&color=7159c1&style=for-the-badge&logo=ghost"/>
-
-<!--
-**DarcisioAlmeida/darcisioalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 🤔 I’m looking for help for my personal development
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

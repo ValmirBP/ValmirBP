@@ -1,54 +1,48 @@
-- 👋 Hi, I’m @ValmirBP
-- 👀 I’m interested in Back-end development, IA, Process automation, and IoT
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on software and miscellaneous that make our life easier and simple
-- 📫 You can reach me valmir.barrosca@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ValmirBP&base=500&color=lightgrey" alt="ValmirBP" /> </p>
 
-![](https://komarev.com/ghpvc/?username=ValmirBP)
+<h1 align="center">Hi nice to  meet you, Welcome! <br> I´m Valmir de Barros Pedro  </h1>
+<h3 align="center"> Web developer | FrontEnd & Backend </h3>
 
-
-## 🧑🏽‍💻 Quem sou:
+## 🧑🏽‍💻 Who I am:
 <div>
-  <p align="justify">
-    ✪ Um profissional com mais de 20 anos de experiência em áreas Comercial e de Atendimentos à clientes. <br>
-    ✪ Apaixonado, entusiasta e envolvido por tecnologia, comecei minha experiência em desenvolvimento Web no inicio de 2020
-    e ainda estou estudando e aprendendo todo dia. <br>
-    ✪ Uma pessoa de fácil convivência, determinado, comunicativo, pró-ativo, engajado, tenho perfil resiliente, trabalho
-    muito bem em equipe, mentalidade forte em liderança e resolução de problemas.
-  </p>
+    <p align="justify">
+      ✪ A professional with more than 20 years of experience in Commercial and Customer Service areas. <br>
+      ✪ Passionate, enthusiastic and involved in technology, I started my experience in Web development at the beginning of 2020
+      and I'm still studying and learning every day. <br>
+      ✪ An easy-going person, determined, communicative, proactive, engaged, I have a resilient profile, work
+      very good in a team, strong mentality in leadership and problem solving.
+    </p>
+</div>
 
-- 🔭 Conheça mais sobre minhas experiências profissionais em https://darcisioalmeida.com.br
+- 🌱 I am currently learning and practicing ** Javascript, React, NodeJS, Typescript and Python **
 
-- 👨‍💻 Alguns dos meus projetos estão disponíveis em [https://www.peoplesystem.com.br/](https://www.peoplesystem.com.br)
+- ⚡ Fun fact: ** I'm a big fan of racing and a collector of miniature vehicles😜**
 
-- 🌱 Atualmente estou aprendendo e praticando ** Javascript, React, NodeJS, Typescript, VueJS **
-
-- ⚡ Curiosidade: ** eu nasci em 29 de fevereiro 😜**
-
-
-
-## 👨🏽‍💻🚀 Minhas Tecnologias
+## 👨🏽‍💻🚀 My Technologies
 
 <div style="display: inline_block">
-  <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" title="Bulma" alt="Bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
+ <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" title="Figma" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" title="Firebase" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" title="Jquery" alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  <img align="center" title="Less" alt="Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
   <img align="center" title="Linux" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" title="Mysql" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" title="Sass" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" title="Typescript" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" title="VueJS" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" title="WordPress" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-</div><br>
+  <img align="center" title="C#" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" title="Python" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" title="Django" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+
+</div><be>
+
+
+
 
 ## 🏆 Prêmios, Cursos e Certificações
 

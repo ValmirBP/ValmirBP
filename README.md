@@ -90,7 +90,7 @@ Description | Institution | Year | Type
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darcisioalmeida&layout=compact&langs_count=7&theme=dark">
 </div><br>
 
-<img align="center" src="https://img.shields.io/static/v1?label=DEV&message=Darcisio Almeida&color=7159c1&style=for-the-badge&logo=ghost"/>
+<img align="center" src="https://img.shields.io/static/v1?label=DEV&message=Valmir Barros&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 <!--
 **DarcisioAlmeida/darcisioalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

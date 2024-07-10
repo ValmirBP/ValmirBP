@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ValmirBP&base=500&color=brightgreen" alt="ValmirBP" /> </p>
 
 <h1 align="center">Hi nice to  meet you, Welcome! <br> I´m Valmir de Barros Pedro  </h1>
-<h3 align="center"> Web developer | FrontEnd & Backend </h3>
+<h3 align="center"> Full Stack Developer| Web developer | FrontEnd & Backend </h3>
 
 ## 🧑🏽‍💻 Who I am:
 <div>

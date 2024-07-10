@@ -11,8 +11,10 @@
       ✪ I am an easy-going, determined, communicative, proactive, and engaged person. I have a resilient profile, work
       I work very well in a team and have a strong mentality in leadership and problem-solving.
     </p>
-
-- 🌱 I am currently learning and practicing ** Javascript, React, NodeJS, Typescript and Python **
+    
+- 🥇 I am proficient  in Javascript, React, Python, NodeJS.
+  
+- 🌴 I am currently improving skills ** Javascript, React, NodeJS, Typescript and Python **
 
 - ⚡ Fun fact: ** I'm a big fan of racing and a collector of miniature vehicles😜**
 

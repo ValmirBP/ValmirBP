@@ -36,8 +36,8 @@
 const valmir = {
   role: "Full Stack Developer",
   location: "Toronto, Canada 🇨🇦",
-  languages: ["Portuguese", "English"],
-  code: ["JavaScript", "TypeScript", "Python", "C#"],
+  languages: ["Portuguese", "English, French"],
+  code: ["JavaScript", "TypeScript", "Python", "C#, C++"],
   currentFocus: ["React", "Node.js", "TypeScript"],
   background: "6+ years in Commercial & Customer Service before tech",
   funFact: "Motorsport fan and miniature car collector 🏎️",

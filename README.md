@@ -1,98 +1,163 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ValmirBP&base=500&color=brightgreen" alt="ValmirBP" /> </p>
+<div align="center">
 
-<h1 align="center">Hi nice to  meet you, Welcome! <br> I´m Valmir de Barros Pedro  </h1>
-<h3 align="center"> Full Stack Developer | Web developer | FrontEnd & Backend </h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Valmir%20de%20Barros%20Pedro&fontSize=44&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=54&descSize=20" width="100%" alt="header" />
 
-## 🧑🏽‍💻 Who I am:
-<div>
-    <p align="justify">
-      ✪ A professional with over 6 years of experience in Commercial and Customer Service. <br>
-      ✪ Passionate, enthusiastic and involved in technology, I started my experience in Web development at the beginning of 2018, and I'm still studying and learning every day. <br>
-      ✪ I am an easy-going, determined, communicative, proactive, and engaged person. I have a resilient profile, work
-      I work very well in a team and have a strong mentality in leadership and problem-solving.
-    </p>
-    
-- 🥇 I am proficient  in Javascript, React, Python, NodeJS.
-  
-- 🌴 I am currently improving skills ** Javascript, React, NodeJS, Typescript and Python **
+<a href="https://github.com/ValmirBP">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript;Python+%7C+C%23+%7C+SQL;Always+learning%2C+always+building." alt="Typing SVG" />
+</a>
 
-- ⚡ Fun fact: ** I'm a big fan of racing and a collector of miniature vehicles😜**
+<br>
 
-- 📫 How to contact me:
-  <div>
-    <a href="mailto:valmirbarrosca@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://t.me/+16475504290" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-    </a>
-    <a href="https://wa.me/+16475504290" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
-   </div>
+<img src="https://komarev.com/ghpvc/?username=ValmirBP&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/ValmirBP?style=for-the-badge&color=6C63FF&labelColor=1c1c2e&logo=github" alt="Followers" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/valmir-barros/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:valmirbarrosca@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://wa.me/+16475504290" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://t.me/+16475504290" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
 </div>
 
-## 👨🏽‍💻🚀 My Technologies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
-<div style="display: inline_block">
- <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" title="Figma" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" title="Jquery" alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  <img align="center" title="Linux" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" title="Mysql" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" title="Typescript" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" title="WordPress" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-  <img align="center" title="C#" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" title="Python" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div><br>
+## 🧑🏽‍💻 About Me
 
+```javascript
+const valmir = {
+  role: "Full Stack Developer",
+  location: "Toronto, Canada 🇨🇦",
+  languages: ["Portuguese", "English"],
+  code: ["JavaScript", "TypeScript", "Python", "C#"],
+  currentFocus: ["React", "Node.js", "TypeScript"],
+  background: "6+ years in Commercial & Customer Service before tech",
+  funFact: "Motorsport fan and miniature car collector 🏎️",
+};
+```
 
-## 🏆 Awards, Courses and Certifications
+- 🚀 Started in web development back in **2018** — still studying and building every single day.
+- 🥇 Proficient in **JavaScript, React, Python and Node.js**.
+- 🌱 Currently sharpening **TypeScript, Node.js and React** architecture skills.
+- 🤝 Communicative, proactive and resilient — I work very well in teams and enjoy leading and solving problems.
+- 💬 Ask me about anything **front-end, back-end or career-change into tech**.
 
-Description | Institution | Year | Type
---------- | --------- | ------ | ------
-🏅 Impulso React Web Developer Bootcamp | Digital Innovation One - DIO | 2022 | Certification
-🏅 Front End Development Libraries | FreeCodeCamp | 2022 | Certification
-🏅 Full Stack Javascript Programmer | OneBiteCode | 2022 | Certification
-🏅 Javascript Algorithms and Data Structures | FreeCodeCamp | 2021 | Certification
-🏅 Bootcamp Become Remote | Digital Innovation One - DIO | 2021 | Certification
-🏅Discover | Rocketseat | 2021 | Course
-🏅Web Design | Origamid | 2021 | Course
-🏅 Responsive Web Design | FreeCodeCamp | 2020 | Certification
-🏅 HTML Web Developer Bootcamp | Digital Innovation One - DIO | 2020 | Certification
-🏅 Information and Communication Technology | Senai | 2019 | Certification
-🏅 IT Fundamentals: Hardware and Software | Fundação Bradesco | 2019 | Certification
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
-## 🌐 My Social Media
-
-<div>
-   <a href="https://www.facebook.com/valmir.barros.169/" target="_blank">
-     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
-   </a>
-   <a href="https://www.instagram.com/valmirbp57/" target="_blank">
-     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-   </a>
-   <a href="https://www.linkedin.com/in/valmir-barros/" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
-</div>
-
-## ⚙️ Estatísticas GitHub
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://github.com/ValmirBP">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ValmirBP&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValmirBP&layout=compact&langs_count=7&theme=dark">
-</div><br>
 
-<img align="center" src="https://img.shields.io/static/v1?label=DEV&message=Valmir Barros&color=7159c1&style=for-the-badge&logo=ghost"/>
+<table>
+  <tr>
+    <td align="center"><b>&nbsp;Front-end&nbsp;</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,jquery&theme=dark" alt="Front-end stack" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>&nbsp;Back-end&nbsp;</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,python,cs&theme=dark" alt="Back-end stack" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>&nbsp;Database&nbsp;</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>&nbsp;Tools&nbsp;</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,wordpress&theme=dark" alt="Tools" /></td>
+  </tr>
+</table>
 
+</div>
 
-![snake gif](https://github.com/ValmirBP/ValmirBP/blob/output/github-contribution-grid-snake.svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValmirBP&theme=tokyonight" width="98%" alt="Profile details" />
+
+<br>
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValmirBP&theme=tokyonight" alt="Top languages by repo" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValmirBP&theme=tokyonight" alt="Top languages by commit" />
+
+<br>
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ValmirBP&theme=tokyonight&utcOffset=-4" alt="Productive time" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
+
+## 🐍 Watch my contributions get eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ValmirBP/ValmirBP/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ValmirBP/ValmirBP/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/ValmirBP/ValmirBP/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
+
+## 🏆 Certifications & Courses
+
+<details open>
+<summary><b>Click to expand / collapse</b></summary>
+
+<br>
+
+| Description | Institution | Year | Type |
+| :--- | :--- | :---: | :---: |
+| 🏅 Impulso React Web Developer Bootcamp | Digital Innovation One — DIO | 2022 | Certification |
+| 🏅 Front End Development Libraries | freeCodeCamp | 2022 | Certification |
+| 🏅 Full Stack JavaScript Programmer | OneBitCode | 2022 | Certification |
+| 🏅 JavaScript Algorithms and Data Structures | freeCodeCamp | 2021 | Certification |
+| 🏅 Bootcamp Become Remote | Digital Innovation One — DIO | 2021 | Certification |
+| 🏅 Discover | Rocketseat | 2021 | Course |
+| 🏅 Web Design | Origamid | 2021 | Course |
+| 🏅 Responsive Web Design | freeCodeCamp | 2020 | Certification |
+| 🏅 HTML Web Developer Bootcamp | Digital Innovation One — DIO | 2020 | Certification |
+| 🏅 Information and Communication Technology | SENAI | 2019 | Certification |
+| 🏅 IT Fundamentals: Hardware and Software | Fundação Bradesco | 2019 | Certification |
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/valmir-barros/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/valmirbp57/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.facebook.com/valmir.barros.169/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="mailto:valmirbarrosca@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<br><br>
+
+<i>⭐️ If you like what you see, feel free to star a repo or drop me a message.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%" alt="footer" />
+
+</div>

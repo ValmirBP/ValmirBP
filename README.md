@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Valmir%20de%20Barros%20Pedro&fontSize=44&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=54&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Valmir%20de%20Barros%20Pedro&fontSize=44&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Front-End%20Developer%20%E2%80%94%20React%20%26%20TypeScript&descAlignY=54&descSize=20" width="100%" alt="header" />
 
 <a href="https://github.com/ValmirBP">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript;Python+%7C+C%23+%7C+SQL;Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&height=60&lines=Front-End+Developer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Node.js;REST+APIs+%7C+MongoDB+%7C+Python;Always+learning%2C+always+building." alt="Typing SVG" />
 </a>
 
 <br>
@@ -34,10 +34,10 @@
 
 ```javascript
 const valmir = {
-  role: "Full Stack Developer",
+  role: "Front-End Developer",
   location: "Toronto, Canada 🇨🇦",
-  languages: ["Portuguese", "English, French"],
-  code: ["JavaScript", "TypeScript", "Python", "C#, C++"],
+  languages: ["Portuguese", "English", "French"],
+  code: ["JavaScript", "TypeScript", "Python"],
   currentFocus: ["React", "Node.js", "TypeScript"],
   background: "6+ years in Commercial & Customer Service before tech",
   funFact: "Motorsport fan and miniature car collector 🏎️",
@@ -45,8 +45,9 @@ const valmir = {
 ```
 
 - 🚀 Started in web development back in **2018** — still studying and building every single day.
-- 🥇 Proficient in **JavaScript, React, Python and Node.js**.
-- 🌱 Currently sharpening **TypeScript, Node.js and React** architecture skills.
+- 🥇 Day to day: **JavaScript, TypeScript, React and Node.js**.
+- 🌱 Working knowledge of **Python** — 100+ solved exercises, plus scripting and automation.
+- 🌍 I speak **Portuguese, English and French**.
 - 🤝 Communicative, proactive and resilient — I work very well in teams and enjoy leading and solving problems.
 - 💬 Ask me about anything **front-end, back-end or career-change into tech**.
 
@@ -63,11 +64,11 @@ const valmir = {
   </tr>
   <tr>
     <td align="center"><b>&nbsp;Back-end&nbsp;</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,python,cs&theme=dark" alt="Back-end stack" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" alt="Back-end stack" /></td>
   </tr>
   <tr>
     <td align="center"><b>&nbsp;Database&nbsp;</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="Databases" /></td>
   </tr>
   <tr>
     <td align="center"><b>&nbsp;Tools&nbsp;</b></td>

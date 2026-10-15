@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Valmir%20de%20Barros%20Pedro&fontSize=44&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Front-End%20Developer%20%E2%80%94%20React%20%26%20TypeScript&descAlignY=54&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Valmir%20de%20Barros%20Pedro&fontSize=44&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%94%20React%2C%20TypeScript%20%26%20Python&descAlignY=54&descSize=20" width="100%" alt="header" />
 
 <a href="https://github.com/ValmirBP">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&height=60&lines=Front-End+Developer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Node.js;REST+APIs+%7C+MongoDB+%7C+Python;Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Node.js;Python+%7C+FastAPI+%7C+PostgreSQL;Always+learning%2C+always+building." alt="Typing SVG" />
 </a>
 
 <br>
@@ -34,22 +34,35 @@
 
 ```javascript
 const valmir = {
-  role: "Front-End Developer",
+  role: "Full-Stack Developer",
   location: "Toronto, Canada 🇨🇦",
   languages: ["Portuguese", "English", "French"],
   code: ["JavaScript", "TypeScript", "Python"],
-  currentFocus: ["React", "Node.js", "TypeScript"],
+  currentFocus: ["React", "TypeScript", "FastAPI", "PostgreSQL"],
   background: "6+ years in Commercial & Customer Service before tech",
   funFact: "Motorsport fan and miniature car collector 🏎️",
 };
 ```
 
 - 🚀 Started in web development back in **2018** — still studying and building every single day.
-- 🥇 Day to day: **JavaScript, TypeScript, React and Node.js**.
-- 🌱 Working knowledge of **Python** — 100+ solved exercises, plus scripting and automation.
+- 🥇 Front-end: **React and TypeScript**. Back-end: **Python with FastAPI** and **Node.js with Express**.
+- 🗄️ Data: **PostgreSQL** with SQLAlchemy and Alembic migrations, **Redis**, and **MongoDB**.
+- 🐳 My FastAPI projects ship with **pytest** suites and **Docker Compose**; the migration validator and the API monitor run end to end in containers.
 - 🌍 I speak **Portuguese, English and French**.
 - 🤝 Communicative, proactive and resilient — I work very well in teams and enjoy leading and solving problems.
-- 💬 Ask me about anything **front-end, back-end or career-change into tech**.
+- 💬 Ask me about anything **front-end, back-end or switching careers into tech**.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
+
+## 🚀 Featured Projects
+
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| [**migration-validator**](https://github.com/ValmirBP/migration-validator) | Validates data migrations between PostgreSQL databases with five independent checks, batched by primary key so large tables never load into memory. Ships with a Docker demo full of planted defects. | FastAPI · SQLAlchemy 2.0 · Alembic · React · Docker |
+| [**api_monitoring_system**](https://github.com/ValmirBP/api_monitoring_system) | Uptime monitor: background checks run in Celery workers and stream to the dashboard over WebSocket. A Redis lock held across retries keeps a flaky endpoint from being checked twice at once. | FastAPI · Celery · Redis · PostgreSQL · React |
+| [**card_game_buraco**](https://github.com/ValmirBP/card_game_buraco) | Four-player Buraco in teams of two: you and an AI partner against two AI opponents, or online rooms over WebSocket where AI fills empty seats. Packaged for Android with Capacitor. | React · TypeScript · Zustand · WebSocket · Capacitor |
+| [**qa-test-management-platform**](https://github.com/ValmirBP/qa-test-management-platform) | Organize test suites and cases, run test cycles against them, and track pass rates on a dashboard. | FastAPI · PostgreSQL · JWT · React · TypeScript |
+| [**mini-postman**](https://github.com/ValmirBP/mini-postman) | HTTP client to build, send and inspect REST requests from the browser, with request history. | React · TypeScript · Node.js · Express · Zod |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
@@ -60,19 +73,19 @@ const valmir = {
 <table>
   <tr>
     <td align="center"><b>&nbsp;Front-end&nbsp;</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,jquery&theme=dark" alt="Front-end stack" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&theme=dark" alt="Front-end stack" /></td>
   </tr>
   <tr>
     <td align="center"><b>&nbsp;Back-end&nbsp;</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" alt="Back-end stack" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&theme=dark" alt="Back-end stack" /></td>
   </tr>
   <tr>
     <td align="center"><b>&nbsp;Database&nbsp;</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="Databases" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,redis,mongodb&theme=dark" alt="Databases" /></td>
   </tr>
   <tr>
     <td align="center"><b>&nbsp;Tools&nbsp;</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,wordpress&theme=dark" alt="Tools" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,linux&theme=dark" alt="Tools" /></td>
   </tr>
 </table>
 
